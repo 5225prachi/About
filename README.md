@@ -24,6 +24,12 @@ JavaScript: Adds functionality and interactivity to the page.
 
 ![About](https://github.com/5225prachi/About/blob/main/About.png)
 
+![Resume1](https://github.com/5225prachi/About/blob/main/Resume1.png)
+
+![Resume2](https://github.com/5225prachi/About/blob/main/Resume2.png)
+
+![Projects](https://github.com/5225prachi/About/blob/main/Projects.png)
+
 **🌍 Live Demo**
 
 Check out the live version of my About Me page 👉 [here](https://about-m9ag.vercel.app/)
