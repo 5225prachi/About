@@ -7,9 +7,13 @@ This About Me web page is a personal portfolio that brings together all my socia
 **🚀 Features**
 
 🔗 Social Links: Direct links to all my social media profiles (LinkedIn, GitHub, Twitter, etc.).
+
 📄 Resume: A downloadable/viewable version of my most recent resume.
+
 💻 Projects Showcase: A portfolio of my completed and ongoing projects with links to live demos and repositories.
+
 📱 Responsive Design: Optimized for a seamless experience across all devices (desktop, tablet, mobile).
+
 ✉️ Contact Information: Easy-to-find contact info for professional inquiries.
 
 **🛠️ Technologies Used**
