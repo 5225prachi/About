@@ -22,7 +22,7 @@ HTML: Structure and content of the webpage.
 CSS: Custom styling for a sleek and professional design.
 JavaScript: Adds functionality and interactivity to the page.
 
-![sticky-notes](https://github.com/5225prachi/About/blob/main/sticky-notes.png)
+![About](https://github.com/5225prachi/About/blob/main/About.png)
 
 **🌍 Live Demo**
 
